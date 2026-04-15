@@ -1,4 +1,3 @@
-README.md 推荐结构
 # thermal-comfort-guiyang-2025
 > Indoor thermal comfort of elderly care facilities...
 
